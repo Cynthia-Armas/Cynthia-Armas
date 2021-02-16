@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-You can download my CV [here](https://drive.google.com/file/d/1cgT4aqNFHAHBXdIio_CrI82nTNCutQ6O/view) to more details.
+You can download my CV [here](https://drive.google.com/file/d/1cgT4aqNFHAHBXdIio_CrI82nTNCutQ6O/view) for more details.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
