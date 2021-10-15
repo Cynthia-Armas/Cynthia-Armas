@@ -1,6 +1,4 @@
-![Image](https://drive.google.com/file/d/1AIVYm-_NXSyFsprOnEZtDYjfot0jLzG2/view?usp=sharing)
-
-a
+<img src="https://user-images.githubusercontent.com/69975099/137477687-5eb1f24a-8da1-405a-a9d9-039320578913.JPG" width="200" height="200">
 
 ## Welcome to My Personal Webpage
 
