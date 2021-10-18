@@ -39,22 +39,22 @@ Work in progress.
 
 ## Conferences and Workshops:
 
-XII Workshop in Public Policy Design. _Assistant_. University of Girona. 17/05/2019.
-
-PhD in Economics Workshop. _Presenter_. University of Barcelona. 10/12/2019.
-
-XIV Labour Economics Meeting. _Presenter_. Asociación Española de Economía del Trabajo. 02/07/2021.
+IV Workshop of the Spanish Macroeconomics Network. _Presenter_. University of Alicante. 07/10/2021.
 
 Women in Economics 2021 Retreat. _Presenter_. European Economic Association and Econometric Society. 23/08/2021.
 
-IV Workshop of the Spanish Macroeconomics Network. _Presenter_. University of Alicante. 07/10/2021.
+XIV Labour Economics Meeting. _Presenter_. Asociación Española de Economía del Trabajo. 02/07/2021.
+
+PhD in Economics Workshop. _Presenter_. University of Barcelona. 10/12/2019.
+
+XII Workshop in Public Policy Design. _Assistant_. University of Girona. 17/05/2019.
 
 
 ## Scholarships:
 
-Convocatoria Abierta 2013 - Primera Fase. SENESCYT. Ecuador. 05/08/2013.
-
 APIF Scholarship. University of Barcelona. Spain. 27/03/2019.
+
+Convocatoria Abierta 2013 - Primera Fase. SENESCYT. Ecuador. 05/08/2013.
 
 
 ## Working Experience:
