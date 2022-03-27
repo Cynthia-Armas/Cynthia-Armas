@@ -59,6 +59,8 @@ Convocatoria Abierta 2013 - Primera Fase. SENESCYT. Ecuador. 05/08/2013.
 
 ## Working Experience:
 
+**Professor.** Sant Cugat Escola Superior de Negocis, Spain, 2022.
+
 **Associate Professor.** University of Barcelona, Spain, 2018-2021.
 
 **Systemic Risk Specialist.** Central Bank of Ecuador, Ecuador, 2015-2017.
