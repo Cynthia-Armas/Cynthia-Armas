@@ -4,8 +4,6 @@
 
 ## Personal Information:
 
-Birthplace: Quito - Ecuador.
-
 Address: La Garriga, 08530 Barcelona, Spain.
 
 Phone: + 34 642971385.
@@ -14,7 +12,7 @@ Email: carmas21bsc@gmail.com
 
 ## Education:
 
-PhD (c) in Economics, [Universitat de Barcelona](https://www.ub.edu/school-economics/). 2017-Present. Barcelona - Spain.
+PhD in Economics, [Universitat de Barcelona](https://www.ub.edu/school-economics/). 2017-2022. Barcelona - Spain.
 
 Msc. Econometrics, [Universiteit van Amsterdam](https://ase.uva.nl/content/masters/econometrics/econometrics.html?cb#Econometrics). 2014-2015. Amsterdam - Netherlands.
 
