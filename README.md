@@ -6,7 +6,7 @@
 
 Birthplace: Quito - Ecuador.
 
-Address: Carrer Lluís Companys 1, 1-5, La Garriga, 08530 Barcelona, Spain.
+Address: La Garriga, 08530 Barcelona, Spain.
 
 Phone: + 34 642971385.
 
@@ -34,8 +34,7 @@ It is a known fact that skilled female participation in labor markets has increa
 
 ### The Role of Intangible Capital in Structural Transformation
 
-Work in progress.
-
+This paper provides a theoretical framework for understanding why the High-Tech Industry sector uses less services from other sectors as inputs than the Low-Tech Industry sector.  Specifically, I focus my analysis on the elasticity of substitution between skilled workers and those characteristic services of industry: software and databases capital services, R&D capital services, and other intellectual property products (OIPP) capital services (known as intangible capital). In this chapter, through a theoretical framework I study how the elasticity of substitution between intangibles and skilled workers determines whether a sector is skill-biased. I argue that intangibles and skilled workers are complements in high TFP sectors (High-Tech Industry) while they are substitutes in low TFP sectors (Low-Tech Industry). Then, as investment in intangible capital increases, allocation of skilled workers rises in high TFP sectors.
 
 ## Conferences and Workshops:
 
@@ -72,4 +71,4 @@ Convocatoria Abierta 2013 - Primera Fase. SENESCYT. Ecuador. 05/08/2013.
 
 ## CV:
 
-You can download my CV [here](https://drive.google.com/file/d/1cgT4aqNFHAHBXdIio_CrI82nTNCutQ6O/view) for more details.
+You can download my CV [here](https://drive.google.com/file/d/1hQf5LniH7SLFoEi9S5xCBKttnEgzhDSQ/view?usp=sharing) for more details.
