@@ -56,7 +56,9 @@ Convocatoria Abierta 2013 - Primera Fase. SENESCYT. Ecuador. 05/08/2013.
 
 ## Working Experience:
 
-**Professor.** Sant Cugat Escola Superior de Negocis, Spain, 2022.
+**Data Analyst.** CaixaBank, Spain, 2023 - Present.
+
+**Professor.** Sant Cugat Escola Superior de Negocis, Spain, 2022 - Present.
 
 **Associate Professor.** University of Barcelona, Spain, 2018-2021.
 
