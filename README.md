@@ -36,6 +36,8 @@ This paper provides a theoretical framework for understanding why the High-Tech 
 
 ## Conferences and Workshops:
 
+XXV Workshop on Dynamic Macroeconomics. _Presenter_. University of Vigo. 5-7/07/2022.
+
 IV Workshop of the Spanish Macroeconomics Network. _Presenter_. University of Alicante. 07/10/2021.
 
 Women in Economics 2021 Retreat. _Presenter_. European Economic Association and Econometric Society. 23/08/2021.
